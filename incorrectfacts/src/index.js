@@ -15,7 +15,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = "amzn1.echo-sdk-ams.app.4777403f-1391-408f-9174-5beba4e8a20d"; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * Array containing space facts.
@@ -25,8 +25,17 @@ var FACTS = [
     "Doing somersaults backwards burns more calories than doing them forwards.",
     "Microwaving water transforms it into hydrogen peroxide, which will melt your insides.",
     "Brocolli is just a tiny tree.",
-    "Studies have shown that giving high fives increases your chances of getting slapped in the face."
-
+    "Studies have shown that giving high fives increases your chances of getting slapped in the face.",
+    "Applying lipstick more than three times a week causes lips to permanently change shades",
+    "Cats have been scientifically proven to be the better pet. Yes. Science.",
+    "Spiders have eight lives, so when you squash one, don't worry. It will be back. With a vengence.",
+    "Wine is a perfectly legitimate cleaning fluid for electronics. Go ahead. Pour some this way.",
+    "Yoga has been proven to increase one's craving for twisty-shaped pasta.",
+    "Sharks actually prefer a vegetarian diet. But social and cultural pressures have forced them to eat meat against their pacifist convictions.",
+    "It has been shown the most effective workout is one that is followed by double the amount of time sitting in a comfy chair while watching Netflix. Lying down is also acceptable.",
+    "Olives are distantly related cousins of grapes.",
+    "Macaroni and cheese was invented in 1938 in Italy, when a truck carrying pasta and another carrying cheese collided with one another in a freak accident.",
+    "Chocolate bunnies are actually made by tricking real bunnies with a free coupon to a day at the spa"
 ];
 
 /**

@@ -3,10 +3,13 @@ GetNewFactIntent an incorrect fact
 GetNewFactIntent a wrong fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent tell me an incorrect fact
+GetNewFactIntent tell me an wrong fact
 GetNewFactIntent give me a fact
+GetNewFactIntent give me an incorrect fact
 GetNewFactIntent give me a wrong fact
 GetNewFactIntent tell me trivia
 GetNewFactIntent tell me an incorrect trivia
+GetNewFactIntent tell me some incorrect trivia
 GetNewFactIntent give me trivia
 GetNewFactIntent give me some incorrect trivia
 GetNewFactIntent give me some information
@@ -14,7 +17,7 @@ GetNewFactIntent give me some incorrect information
 GetNewFactIntent give me some wrong information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
-GetNewFactIntent tell me incorrect
-GetNewFactIntent give me incorrect
-GetNewFactIntent tell me wrong
-GetNewFactIntent give me wrong
+GetNewFactIntent tell me something incorrect
+GetNewFactIntent give me something incorrect
+GetNewFactIntent tell me something wrong
+GetNewFactIntent give me something wrong
