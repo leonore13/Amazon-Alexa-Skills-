@@ -1,5 +1,5 @@
 # Amazon-Alexa-Skills-
-Some skills I wrote for Amazon's voice-activated companion device, Alexa. 
+Some skills I wrote for Amazon's voice-activated companion program, Alexa. 
 
 If you have an Amazon Developer account, you can try them out here: https://echosim.io/welcome?next=%2F 
 
