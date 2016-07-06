@@ -9,3 +9,9 @@ Alexa is full of uninformative facts. Just ask her! "Incorrect Fact" is a silly 
 
 Try: "Alexa, ask Incorrect Facts for a fact."
 
+#### Job Finder: [IN DEVELOPMENT]
+
+Let Alexa help you find a job! This skill scours through various job databases to help you find postings to the position of your dreams.
+
+Try: "Alexa, ask Job Finder for a software development job."
+
