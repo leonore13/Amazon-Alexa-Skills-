@@ -7,5 +7,5 @@ If you have an Amazon Developer account, you can try them out here: https://echo
 
 Alexa is full of uninformative facts. Just ask her! "Incorrect Fact" is a silly app that parodies Alexa's fact generating skill. Simply ask Alexa for a (incorrect) fact, and let her help you impress at your next cocktail party!
 
-Try: "Alexa, ask Incorrect Fact for a fact."
+Try: "Alexa, ask Incorrect Facts for a fact."
 
